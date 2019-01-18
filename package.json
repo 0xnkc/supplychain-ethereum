@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nikhilkc96/supplychain-ethereum/blob/master/README.md"
   },
   "author": "Nikhil K C",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nikhilkc96"
   },
-  "homepage": "",
+  "homepage": "https://github.com/nikhilkc96/supplychain-ethereum",
   "dependencies": {
     "chai": "^4.1.2",
     "eth-gas-reporter": "^0.1.12",
