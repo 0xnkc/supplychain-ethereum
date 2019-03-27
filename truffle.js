@@ -11,7 +11,7 @@ module.exports =
 		},
     	rinkeby: {
     	    provider: function() {
-				var mnemonic = "doctor multiply stereo hard turkey cigar eight flip excess enter blur exist";//put ETH wallet 12 mnemonic code	
+				var mnemonic = "doctor multiply stereo hard turkey cigar eight flip excess enter blur exist"; //put ETH wallet 12 mnemonic code	
 				return new HDWalletProvider(mnemonic, "HTTP://127.0.0.1:7545");
 		    },
 		    network_id: '5777',

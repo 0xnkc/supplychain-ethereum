@@ -24,6 +24,8 @@
     "eth-gas-reporter": "^0.1.12",
     "ethereumjs-abi": "^0.6.5",
     "growl": "^1.10.5",
+    "solc": "^0.4.23",
+    "truffle": "^5.0.9",
     "truffle-hdwallet-provider": "0.0.5"
   }
 }
